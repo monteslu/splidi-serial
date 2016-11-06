@@ -1,0 +1,14 @@
+{
+  "name": "splidi-serial",
+  "version": "0.1.0",
+  "description": "Virtual serial device using Web MIDI API as the transport",
+  "main": "index.js",
+  "repository": "git@github.com:monteslu/splidi-serial.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Montes",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
